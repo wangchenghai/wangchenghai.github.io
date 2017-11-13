@@ -3,7 +3,7 @@ layout: post
 title:  "TensorFlow 安装教程及测试"
 date:   2017-11-13 21:14:54
 categories: 机器学习
-tags:Maching_Learning
+tags:   Maching_Learning
 excerpt: TensorFlow 安装教程及测试
 mathjax: true
 ---
