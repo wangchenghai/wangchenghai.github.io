@@ -7,14 +7,17 @@ tags:   Maching_Learning
 excerpt: TensorFlow 安装教程及测试
 mathjax: true
 ---
-安装python3.5.x
+
+# 安装python3.5.x
 
 下载：python3.5.2
 第一个Install Now是默认安装在c盘的，第二个是自己选择安装路径。 
 我选择第二个，同时将Add Python 3.5 to PATH勾选上。 
 我没有勾选最后一项，虽然安装成功了，但是运行的时候报错，所以最好都选上。然后开始进行安装。 
 安装成功后
-安装tensorflow
+
+# 安装tensorflow
+
 进入CMD运行
 ```shell
  pip install tensorflow
