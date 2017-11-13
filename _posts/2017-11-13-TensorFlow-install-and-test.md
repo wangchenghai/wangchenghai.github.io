@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "hello jekyll!"
-date:   2015-02-10 15:14:54
-categories: jekyll
-tags: jekyll
+date:   2017-11-13 21:14:54
+categories: 机器学习
+tags:Maching Learning
 excerpt: TensorFlow 安装教程及测试
 mathjax: true
 ---
