@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "hello jekyll!"
+title:  "TensorFlow 安装教程及测试"
 date:   2017-11-13 21:14:54
 categories: 机器学习
 tags:Maching Learning
